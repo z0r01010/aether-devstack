@@ -1,0 +1,11 @@
+node_modules/
+dist/
+devstack.db
+devstack.db-journal
+.DS_Store
+.env
+*.log
+.vscode/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
